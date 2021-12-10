@@ -12,7 +12,7 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <selenide.version>5.12.2</selenide.version>
         <junit.version>5.7.0-M1</junit.version>
-        <log.version>2.13.2</log.version>
+        <log.version>2.15.0</log.version>
         <maven.surefire.version>3.0.0-M3</maven.surefire.version>
     </properties>
 
